@@ -1,3 +1,0 @@
-apache hbase is a nosql database.
-hbase is a bigdata database.
-hbase is a column sequence saved database.
