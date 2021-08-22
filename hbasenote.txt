@@ -2,4 +2,6 @@ apache hbase is a nosql database.
 hbase is a bigdata database.
 hbase is a column sequence saved database.
 I wish I can learn hbase well.
-hbase like other nosql database.
+<<<<<<< HEAD
+hbase like other nosql database, is a very important database in the bigdata time.
+>>>>>>> learnhbase
